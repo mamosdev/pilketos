@@ -68,7 +68,7 @@ Aplikasi ini adalah aplikasi yang gratis untuk digunakan, namun jika anda ingin 
 	<li>Login dengan menggunakan <b>Username dan Password = NISN</b> DPT yang bersangkutan, yang telah di INPUT oleh Admin sebelumnya</li>
 </ul>
 
-<b>Developer Notes</b>
+<h2>Developer Notes</h2>
 <ul> 
 	<li>Project ini menggunakan CI 3.1.8 || </b></li>
 	<li>Gunakan Xampp dengan PHP 7.4 dan APACHE 7.4</li>

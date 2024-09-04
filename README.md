@@ -73,6 +73,7 @@ Aplikasi ini adalah aplikasi yang gratis untuk digunakan, namun jika anda ingin 
 <ul> 
 	<li>Project ini menggunakan CI 3.1.8 || </b></li>
 	<li>Gunakan Xampp dengan PHP 7.4 dan APACHE 7.4</li>
+	<li>Buka terminal dan ketikan perintah <b> php -S localhost:8080 </b></li>
 </ul>
 
 

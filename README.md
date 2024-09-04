@@ -58,6 +58,7 @@ Aplikasi ini adalah aplikasi yang gratis untuk digunakan, namun jika anda ingin 
 <h2>Akses Aplikasi</h2>
 <b>Akses Admin</b>
 <ul> 
+	<li>Masuk ke terminal, tulis "php -S localhost:8080" || Pastikan Xampp Apache dan MySQL hidup</b></li>
 	<li>Masuk ke Browser kemudian tulis di address bar <b>http://localhost/pilketos/index.php/admin/</b></li>
 	<li>Login dengan menggunakan <b>Username = admin</b> dan <b>Password = admin</b></li> 
 </ul>
@@ -67,7 +68,11 @@ Aplikasi ini adalah aplikasi yang gratis untuk digunakan, namun jika anda ingin 
 	<li>Login dengan menggunakan <b>Username dan Password = NISN</b> DPT yang bersangkutan, yang telah di INPUT oleh Admin sebelumnya</li>
 </ul>
 
-
+<b>Developer Notes</b>
+<ul> 
+	<li>Project ini menggunakan CI 3.1.8 || Xampp terbaru dengan PHP 7.4 </b></li>
+	<li></li>
+</ul>
 
 
  
